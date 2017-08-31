@@ -1,6 +1,9 @@
 ---
 layout: post
 title: I Finally Gave Up
+category: General
+
+excerpt: Announced this site to the world.
 ---
 
 After resisting for over 10 years the urging of many, including my dear former
